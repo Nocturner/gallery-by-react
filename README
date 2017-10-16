@@ -1,0 +1,8 @@
+0项目第一步，安装yomen,
+1安装webpack npm install -g generator-react-webpack    npm ls -g --depth=1 2>/dev/null | grep generator
+2 在github上创建工程，同步到本地，，进入到项目目录，运行yo react-webpack galley-by-react项目，这时候就基本同步了目录
+3,npm start 跑起项目来，然后在chrome中添加react developer tools
+
+
+
+
